@@ -1,0 +1,32 @@
+header{
+    background-color: rgb(255, 1, 1);
+   text-align: center;
+}
+
+div{
+    background-color: black;
+    text-align: center;
+}
+div > p{
+    color: white;
+}
+div h2{
+    color: white;
+}
+section{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+img{
+    width: 300px;
+    text-align: center;
+
+}
+main{
+    background-color: red;
+    text-align: center;
+}
+footer{
+    background-color: red;
+    text-align: center;
+}
